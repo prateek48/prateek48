@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prateek48
+- 👋 Hi, I’m Prateek Agrawal
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on open source projects on mern
